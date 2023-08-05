@@ -71,5 +71,6 @@ form .creds {
     bottom: -130px;
     left: 70px;
     background: linear-gradient(120deg, rgb(149, 43, 149), grey);
-    font-weight: 200;
+    font-weight: 400;
+    color: black;
 }
